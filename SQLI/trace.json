@@ -1,0 +1,7 @@
+{"isSQL": true, "traces": [[{"file": "/home/ysk/PHPJoy/projects/IG_traversal/main.php", "line": 6, "taint_variable": "$query"},
+  {"file": "/home/ysk/PHPJoy/projects/IG_traversal/main.php", "line": 5, "taint_variable": "$a"},
+  {"file": "/home/ysk/PHPJoy/projects/IG_traversal/main.php", "line": 3, "taint_variable": "$outting_var"},
+  {"file": "/home/ysk/PHPJoy/projects/IG_traversal/including.php", "line": 3, "taint_variable": "$_GET['user_data']"}],
+  [{"file": "/home/ysk/PHPJoy/projects/IG_traversal/main.php", "line": 6, "taint_variable": "$query"},
+    {"file": "/home/ysk/PHPJoy/projects/IG_traversal/main.php", "line": 5, "taint_variable": "$res"},
+    {"file": "/home/ysk/PHPJoy/projects/IG_traversal/main.php", "line": 4, "taint_variable": "$_GET['ABC']"}]]}
